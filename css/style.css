@@ -34,6 +34,7 @@ body{
     min-inline-size: 100vw;
     min-block-size: 100vh;
     font-family: var(--Big-S-D);
+    background-color: var(--VL-Gray-HPB);
     display: grid;
     place-content: center;
 }
